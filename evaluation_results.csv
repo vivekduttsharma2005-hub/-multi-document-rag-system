@@ -1,0 +1,23 @@
+id,type,question,answer,cited_sources,answer_correct,source_correct
+1,fact,What was the revenue growth of Infosys in FY25?,"Infosys reported a revenue growth of **6.1 % in FY 2025** (consolidated basis)【infosys_small (1).pdf, p.30】【infosys_small (1).pdf, p.23】.",infosys_small (1).pdf,True,True
+2,fact,What was the operating margin of Infosys in FY25?,"Infosys reported an operating margin of **21.1 %** for the fiscal year 2025 (consolidated)【infosys_small (1).pdf, page 15】.",infosys_small (1).pdf,True,True
+3,follow-up,And what was it in the previous year?,"Infosys’s operating margin in the fiscal year prior to FY 25 (i.e., FY 24) was **20.7 %** (consolidated)【infosys_small (1).pdf, page 47】.",infosys_small (1).pdf,True,True
+4,fact,What was the return on equity?,"The report states that Infosys’s return on equity was **44.8 %** (see page 22) (infosys_small (1).pdf, p.22).",infosys_small (1).pdf,False,True
+5,fact,What was the free cash flow for fiscal 2025?,"The free cash flow for fiscal 2025 was **₹34,549 crore** (Infosys Integrated Annual Report 2024‑25, page 15).",infosys_small (1).pdf,True,True
+6,fact,What was the total dividend per share announced?,"The company announced a total dividend of **₹ 43 per share** (including the interim dividend of ₹ 21 per share)【infosys_small (1).pdf, p.35】【infosys_small (1).pdf, p.17】.",infosys_small (1).pdf,True,True
+7,summary,What are the key risks mentioned in the report?,"The report lists the following key risks:
+
+- Geo‑political scenarios and macro‑economic uncertainties (including health events)【infosys_small (1).pdf, p.64】  
+- Inflation【infosys_small (1).pdf, p.64】  
+- Technology disruption and innovation【infosys_small (1).pdf, p.64】  
+- Talent availability【infosys_small (1).pdf, p.64】  
+- Cybersecurity (cyber‑risk)【infosys_small (1).pdf, p.67】  
+- Data protection and privacy【infosys_small (1).pdf, p.64】  
+- ESG (environmental, social and governance) risks【infosys_small (1).pdf, p.64】  
+- Contractual liabilities【infosys_small (1).pdf, p.64】  
+- Complex and evolving regulatory environment【infosys_small (1).pdf, p.64】
+
+These are the key risks highlighted in the Risk Management Report section of the Integrated Annual Report.",infosys_small (1).pdf,True,True
+8,follow-up,Which of these is related to employees?,"The risk that directly concerns employees is **talent availability**【infosys_small (1).pdf, p.64】.",infosys_small (1).pdf,True,True
+9,not-in-docs,What is the recipe for pizza?,I could not find this information in the uploaded documents.,,True,
+10,not-in-docs,Who won the football world cup in 2022?,I could not find this information in the uploaded documents.,,True,

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "fact",
+    "question": "What was the revenue growth of Infosys in FY25?",
+    "keywords": ["6.1"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "fact",
+    "question": "What was the operating margin of Infosys in FY25?",
+    "keywords": ["21.1"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "follow-up",
+    "question": "And what was it in the previous year?",
+    "follow_up": true,
+    "keywords": ["20.7"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "fact",
+    "question": "What was the return on equity?",
+    "keywords": ["29.0"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "fact",
+    "question": "What was the free cash flow for fiscal 2025?",
+    "keywords": ["34,549"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "fact",
+    "question": "What was the total dividend per share announced?",
+    "keywords": ["43"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "summary",
+    "question": "What are the key risks mentioned in the report?",
+    "keywords": ["cyber"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "follow-up",
+    "question": "Which of these is related to employees?",
+    "follow_up": true,
+    "keywords": ["talent"],
+    "source": "infosys_small.pdf"
+  },
+  {
+    "type": "not-in-docs",
+    "question": "What is the recipe for pizza?",
+    "not_in_docs": true
+  },
+  {
+    "type": "not-in-docs",
+    "question": "Who won the football world cup in 2022?",
+    "not_in_docs": true
+  }
+]
